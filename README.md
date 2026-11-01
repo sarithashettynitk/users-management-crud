@@ -1,24 +1,10 @@
-# README
+# Users Management CRUD (Rails)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Users management application built with Ruby on Rails and Bootstrap.
 
-Things you may want to cover:
+- List, create, view, edit and delete users
+- ActiveRecord model with validations
+- MVC structure with RESTful routes
+- Model test included
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run: bundle install, rails db:migrate, rails server
